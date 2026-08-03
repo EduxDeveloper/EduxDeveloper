@@ -10,14 +10,21 @@
 
 ## 🛠️ Tech Stack
 
-<img src="https://skillicons.dev/icons?i=mongo,express,react,nodejs,java,spring,oracle,git&theme=dark" />
+<img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,java,spring,git&theme=dark" />
+
+<br>
+
+<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
 
 ---
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=EduxDeveloper&show_icons=true&theme=tokyonight&bg_color=0d1117&hide_border=true" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com?user=EduxDeveloper&theme=tokyonight&background=0d1117&hide_border=true" width="48%" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=EduxDeveloper&show_icons=true&theme=tokyonight&bg_color=0d1117&hide_border=true" width="60%" />
+
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=EduxDeveloper&theme=tokyonight&background=0d1117&hide_border=true" width="60%" />
 
 ---
 
